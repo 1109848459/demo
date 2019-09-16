@@ -1,7 +1,7 @@
 {
     "name": "shenhuihui/demo",
     "description": "knowledge 测试练习",
-    "type": "library\b\b",
+    "type": "library",
     "require": {
         "php": ">=5.6"
     },
