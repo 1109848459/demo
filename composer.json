@@ -1,0 +1,16 @@
+{
+    "name": "shenhuihui/demo",
+    "description": "ceshi",
+    "type": "project",
+    "require": {
+        "php": ">=6.6"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "shenhuihui",
+            "email": "shenhuihui@rong360.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
