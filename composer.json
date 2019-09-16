@@ -1,0 +1,15 @@
+{
+    "name": "shenhuihui/demo",
+    "description": "knowledge 测试练习",
+    "type": "library\b\b",
+    "require": {
+        "php": ">=5.6"
+    },
+    "authors": [
+        {
+            "name": "shenhuihui",
+            "email": "shenhuihui@rong360.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
